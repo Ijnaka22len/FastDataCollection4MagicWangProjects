@@ -1,0 +1,17 @@
+
+.pdm
+.settings
+autogen
+config
+gecko_sdk_4.4.3
+GNU ARM v12.2.1 - Default
+.cproject
+.project
+.projectlinkstore
+accelerometer.cc 
+dataCapture.cc 
+*.html
+*.pintool
+*.slcp
+*.slps
+main.c
