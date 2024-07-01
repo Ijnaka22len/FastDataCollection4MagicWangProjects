@@ -1,4 +1,4 @@
-# Data Capture Manual for AIDrawPen projects taking reference from the magic wang projects.
+# Data Capture Manual for projects taking reference from the magic wang projects.
 As  Part of my [AIDrawPen](https://github.com/Ijnaka22len/AIDrawPen/) project, this project gives a faster way to collect data for projects taking reference from the [magic wang](https://github.com/tensorflow/tflite-micro/tree/3e190e5389be49c94475e509452bdae245bd4fa6/tensorflow/lite/micro/examples/magic_wand/train) projects on the Silicon Labs xG24 board.
 <table>
   <tr>
