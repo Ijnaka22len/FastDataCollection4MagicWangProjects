@@ -13,7 +13,7 @@ As  Part of my [AIDrawPen](https://github.com/Ijnaka22len/AIDrawPen/) project, t
 ## 2. Create Folder for Data Collection
 - Create a folder named `dataLog/`.
 - Download and upload the the [hexImuXYZDataCapure.hex
-](ImuXYZDataCapure/hexImuXYZDataCapure.hex) file to the xG24 board.
+](imuXYZDataCapure/) file to the xG24 board.
 
 ## 3. File Naming and Configuration
 - Use Putty for configuration.
@@ -32,7 +32,7 @@ As  Part of my [AIDrawPen](https://github.com/Ijnaka22len/AIDrawPen/) project, t
 - Hold the xG24 board horizontally and press the right-side button (btn0) to start recording data (drawing shapes).
 - Release the button when done drawing the shape. Repeat for multiple shapes.
 - Draw at least 60 shapes.
-- Close the Putty terminal and repeat steps 2-3 for new sessions.
+- Close the Putty terminal and repeat steps 2-4 for new sessions.
 <table>
   <tr>
     <td><img src="xg24.jpg" alt="xg24.jpg" width="500" /></td>
